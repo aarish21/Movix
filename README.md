@@ -1,3 +1,3 @@
 # Movix
-Movie Recommendation website made using React and tmdb api
-Thanks to JSDev Hindi for the tutorial
+Movie Recommendation website made using React, redux and tmdb api
+
